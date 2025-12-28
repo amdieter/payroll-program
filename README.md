@@ -10,4 +10,4 @@ The Wine Reserve and Flight Wine & Bourbon Bar are two businesses run by the sam
 3. This data was extracted via the use of openpyxl, where the data is then compiled into pandas multiple mathematic operations are performed to redistribute tips among each different employee depending on their number of hours worked, as well as whether or not they work in the kitchen or as a bartender.
 
 ### The Interface
-<img src="payroll_interface.png"> <img src="payroll_in_progress">
+<img src="payroll_interface.png"> <img src="payroll_in_progress.png">
